@@ -1,0 +1,416 @@
+#EXTM3U
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ac86ed7edabf2d886a3b8430b4f13c91.png" group-title="Canais De TV",TV Cultura
+https://streaming03.zas.media/tvfuturo/tvfuturo/chunklist_w1625647096.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b0baf19518fb782525c37b40c2f5d9b5.png" group-title="Canais De TV",Rede TV
+https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7b0be1e3ddbc37ae133fd52e75a94fe0.png" group-title="Canais De TV",Retro Cartoon
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w284054292.m3u8
+#EXTINF:- tvg-logo="https://landing.guigo.tv/img/1_040.png" group-title="Canais De TV",Loading
+https://akamai.gcp.br.cdn.booyah.live/hls/151073/34850987_1080.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1ef59e88801387f71231a6b12a5c0db6.png" group-title="Canais De TV",Tv Series
+https://stmv1.srvstm.com/tvserie/tvserie/chunklist_w1126008038.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8d4bdb68a85b31fdb5ab58d73fe88d22.png" group-title="Canais De TV",TV Tokyo
+https://stmv1.voxtvhd.com.br/tvtokio/tvtokio/chunklist_w599639708.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7856d68f41f8f261c2cdeca2b92dce7b.png" group-title="Canais De TV",Jetsons Tv
+https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w12522933.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f99a0e941ba522c9a84d61be4d8bd2bd.png" group-title="Canais De TV",TV Xtreme
+https://stmv1.voxtvhd.com.br/webtvxtreme/webtvxtreme/chunklist_w1473514533.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/cb1a59dce8657ee23c115cdfb72e302f.png" group-title="Canais De TV",TV Diário
+https://stream-04.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZUrl31AKF0dGTkYx6YoXPEU)/dm/3/x7txn7q/s/live-4.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4cc2faa53cb8b284468eaeda099eec55.png" group-title="Canais De TV",Rede Brasil
+https://59f1cbe63db89.streamlock.net:1443/rbtv01/_definst_/rbtv01/chunklist_w219814008.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/dcb3ff84b8f31ddc39ef213b42402f75.jpg" group-title="Canais De TV",Canal 29
+https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w1168617239.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/468a51d6031a373ec56983564ebf9ff8.jpg" group-title="Canais De TV",TV Carioca
+https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w1035873922.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/afc37cf19c9d2acd765a4d6d041f74ce.png" group-title="Canais De TV",TV Evangelizar
+https://5f593df7851db.streamlock.net/evangelizar/tv/chunklist_w711738510.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/bb3d26076cae2dc3a4a7d77b7f01c414.png" group-title="Canais De TV",Rede Massa SBT
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/chunklist_w1361099059.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e6aa0ad770325c0c0b656ab54716e542.png" group-title="Canais De TV",TV Max
+https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w681654246.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/85e5f6b6aa459a384730e3b520e1e728.png" group-title="Canais De TV",Rede Vida
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/44fae4d3394877ed0880e78b4563450d.png" group-title="Canais De TV",TV Manchete
+https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w895181836.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/041a53eb1b2c6c9d65151c102342544b.jpg" group-title="Canais De TV",TV Brasil
+https://video-rvd-df-2.rnp.br/live/ocp(t(FnZWh4u0twA)r(fVR9ug)a(qOijtw)p(d(2xc)k(q8c)m(HjOhirEyP0Ni20GWmcimxg)n(a(FKEbgA)s(4GM)'a(T6NVnA)s(b1Q)))s(s(Mx4)b(vg7UJGU0ZtuR7mzMUeqtX7p7zVC_4McMFcVUtUz7oMC1uJcP_TeXJUiB40pTSl0kKcPndqY2GJm2NnGMqA)'s(_-w)b(USBbyzomNNohIArtvZ129q5ht07dPUT5iU-rJOLgV4wT6us3jtrjv2dustkLQffftw9xf8OrD7KWAzQde5EGZB7pemYUFV7ocgDJ_h0N)'s(64Q)b(jwQr3dj1))m(0))/1_index.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1d8fb419ad2b89ff1302e149a9774bc5.png" group-title="Canais De TV",TV Universal
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_935bef7c-5742-49f3-8ec6-c0601ab618e5.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/af00a626f71e3a3dfadb5a5c8ffa086c.png" group-title="Canais De TV",TCM
+https://live.tcm10.com.br/tcm10hd/stream.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/df0c35517ab2f2e9e6e63c1808730694.jpg" group-title="Canais De TV",RBATV(Band PA)
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w53056281.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9f4c88da968810f5c45fef944578a93d.jpg" group-title="Canais De TV",SBT GO
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w1215615423_b1000000.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8e2460502f204b225c89d644e88153a8.png" group-title="Canais De TV",Anime TV
+https://stmv1.srvif.com/animetv/animetv/chunklist_w1071213453.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/42174cd70ddce777c49b24aea7730341.png" group-title="Canais De TV",TV Rede Gospel
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4cc0285ab1bc6bf909b263dfa4d80b53.png" group-title="Canais De TV",TV Assembléia MT
+https://streaming.al.mt.gov.br/test/index.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/da38f2efc9744b3ef828306b81b4588b.jpg" group-title="Canais De TV",Krónos Movie Web TV
+https://5e36c064a2f6a.streamlock.net:1936/8310/8310/chunklist_w1007804824.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5d386500ebc7f1be9d49188de6f44fa5.png" group-title="Canais De TV",SBT Interior
+https://5a1c76baf08c0.streamlock.net/sbtinterior/5gormsu7qderx4z0coz5281hehosfp2f/chunklist_w1037277789.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8ce8f1a9e2406d2acde94e2ac5d0f671.png" group-title="Canais De TV",SBT PI
+https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/chunklist_w1596234389.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a4bf2a1b1c9251f3d1fc0af4e015daf4.jpg" group-title="Canais De TV",TV Digital Birigui
+http://wse01.logicahost.com.br:1935/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist_w68381860.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9ec2c361a5ce07ba0f7987bcd36dbb1d.jpg" group-title="Canais De TV",Gospel Movie TV
+https://stmv1.srvif.com/gospelf/gospelf/chunklist_w241586413.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/570684b39f1b4362b87aeb98fccfa3b6.png" group-title="Canais De TV",SexyKpopTV
+https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w948690832.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/100987566f7a57c654ac6f94c2a42b86.png" group-title="Canais De TV",TV Metrópole
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/chunklist_w210530325.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/40b8a2a4154e2c07fc3585c1ca1aeee5.png" group-title="Canais De TV",Rede TV RJ
+https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=6410329353875642000
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/621257bf486e5ad3003742d01adfdfd6.png" group-title="Canais De TV",TV Arapuan
+https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/chunklist_w2026183644_b2499001_DVR.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/65a87fc7f3192b4ce780d81162387299.jpg" group-title="Canais De TV",LatinaSat TV
+https://stmv1.samcast.com.br/joaomatheus5156/joaomatheus5156/chunklist_w1943366596.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9f323b96a01b3fc9a0c5902bd616213b.png" group-title="Canais De TV",Rede Gênesis de TV
+https://uhsakamai-a.akamaihd.net/sao01/sao01-uhs-omega02/live/23971225/1618437299024/plain/uhs/3/chunk_1618465332_88832de306.m4v
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1e7e289ab5c66e67ad623c5a1bec9f75.png" group-title="Canais De TV",Vintage TV
+https://stmv1.srvstm.com/rogerio4248/rogerio4248/chunklist_w1319139940.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0c7847afd46b2ecb00a14198a16ba142.png" group-title="Canais De TV",TVE Bahia
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/31032afb0ddcda240d10e0de80793302.png" group-title="Canais De TV",TV Brasil 2
+https://video-rvd-df-gw-1-2.rnp.br/live/ocp(t(FnZXyJxQI-A)r(fVR9ug)a(qOijtw)p(d(2xc)k(q8c)m(pM98OzZW0640YaOcso0yiA)n(a(pntQ1A)s(T0E)'a(bPvqNw)s(0jo)))s(s(XZg)b(-PAIAYwg8nKQh_OOLfqdw7_CC-NpgZeag1V6gsdB68XRvCGQjg4-iJh0Py_ktDr5RvArlizSYkOJbiGftg)'s(cq0)b(65iGTIn06cG9U8ybLcHd8SH-jbM2QXk_GjFG2ZA0ra5duhI4bjzAabNagIRtXDwc_AUAJEbf70DesyG1d2g_iuR-5TU3VkFtMYWAc_jl)'s(yXk)b(lzZFNsjm))m(0))/1_index.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3c98bd1a061f04f8f2ef85528cd6b253.png" group-title="Canais De TV",TV Santa Cecilia
+http://flash1.crossdigital.com.br/2063/2063/chunklist_w502832339.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/db24d44b23d48de613d70881b8f1d013.png" group-title="Canais De TV",Classique Western TV
+https://stmv1.srvstm.com/classique2/classique2/chunklist.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9d7d1a4b47e3583e7c715cafee8cbd02.png" group-title="Canais De TV",TV Jornal Do Nordeste
+https://5cf4a2c2512a2.streamlock.net/jornaldonorteste/jornaldonorteste/chunklist_w2003909283.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/11cf16112e09f04f5eff9fbf953d8e42.png" group-title="Canais De TV",Tv Metropolitana Rio
+https://59f1cbe63db89.streamlock.net:1443/caxiastv/_definst_/caxiastv/chunklist_w1706640638.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/6ea19e674e731e9eef76b96ab954e4b1.png" group-title="Canais De TV",TV Pai Eterno
+https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist_w1333066579.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/22f3a969d2397bff78f2684767dce752.png" group-title="Canais De TV",TV SÉCULO 21
+https://dd8umsy8yf96u.cloudfront.net/live/rs21_360p614k/index.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/084299119e2cf7e1b863489165dd5af3.jpg" group-title="Canais De TV",TV Teen Net
+https://srv3.zcast.com.br/yeeaah/yeeaah/chunklist_w317378218.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4c24ac0f22000469a51f62eebae66ffb.png" group-title="Canais De TV",Rede NGT
+https://cdn.jmvstream.com/w/AVJ-9644/playlist/chunklist.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e102e2a838d5207b803272e0f31bfa79.jpg" group-title="Canais De TV",Rede Família
+https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist_b1628000.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/fd082a2640b45935b4d9fed13af5a966.png" group-title="Canais De TV",TV Difusora
+https://5a1c76baf08c0.streamlock.net/z438-live/stream/chunklist_w1567540629.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/737138161e02090fb61d4e60ec069464.png" group-title="Canais De TV",SICtv (Rede Record RO)
+http://5953e7f9ae845.streamlock.net/2502/2502/chunklist_w1347762399.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/879001b49f0330143eed3e34653e17c3.jpg" group-title="Canais De TV",Tv Channel Network
+https://serv3.videovox.pw/alexandre4108/alexandre4108/chunklist_w1093144759.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/2b1ea269f673bbd4459aa53f2b78ff14.png" group-title="Canais De TV",Rede Plenitude TV
+https://meupainel.top:1936/iaptd/iaptd/chunklist_w1409452078.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/deaee7a4d7ef1c38e84da23cfeee16ff.png" group-title="Canais De TV",Retro Cartoon 2
+https://stmv1.srvstm.com/cartoonr2/cartoonr2/chunklist_w1731747514.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/bf5bd325078d65bb2eaffffc84a3bf7a.jpg" group-title="Canais De TV",TV Pampa (Rede TV RS)
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w1761905282.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f24b1cd1064865c050503ea604e4526a.jpg" group-title="Canais De TV",Tv J.SID
+https://5e36c064a2f6a.streamlock.net:1936/8262/8262/chunklist_w1098482764.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/80609e7626a827d28c6c277ed8252b0e.png" group-title="Canais De TV",Central Tv
+https://serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/chunklist_w711178493.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a7bcc803390b08473d347197729c75b1.jpg" group-title="Canais De TV",Rede Super
+https://playback2.akamaized.net/streams/10205943_3429501_lsin4tjpm1ygsoph618_1/exp=1618665002~acl=%2f*~data=hdntl~hmac=25eb52d20c456caa948840459954a8ebaae8a4b2887fc2832e103943b55d5f21/media/10205943_3429501_lsin4tjpm1ygsoph618_1@678000p.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0d8ea456a45f1f4837ffb24db7646f8f.png" group-title="Canais De TV",Web Tv Cine
+https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w599135410.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f42f76db35b114255012a25cbe113942.png" group-title="Canais De TV",Tv Nordeste
+https://stmv1.srvstm.com/leandro9908/leandro9908/chunklist_w2115653806.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8936ceb865591bcc9ace180f253fc697.jpg" group-title="Canais De TV",Viva Web TV
+http://video01.kshost.com.br/cypriano46326/cypriano46326/chunklist_w1121011222.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/646ee5304b659c7c667285357508fc07.png" group-title="Canais De TV",Rede CNT
+https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba_240p414k/index.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/478ee3549258b91ed79f142a3b8ddaa5.png" group-title="Canais De TV",Seven TV
+https://videodj.fm5.com.br:19360/seventv/seventv.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1ae8c4979f2cb848a2f112d8afd097cb.jpg" group-title="Canais De TV",TV Aberta São Paulo
+https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/chunklist_w1327804414.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8fc99fbda2095d214c7d11397aa2415d.png" group-title="Canais De TV",Summer TV
+https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/chunklist_w1863128009.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f032a160e2b4cbb9de8f0080b845c9ca.png" group-title="Canais De TV",Classique TV
+http://stmv2.srvstm.com/classique/classique/chunklist_w1272245863.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/cc56623a8cbf2f45d462cf93fc540de7.png" group-title="Canais De TV",TV Ouro Negro
+https://stmv1.srvstm.com/diegodemenezes3156/diegodemenezes3156/chunklist_w1182901182.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/bd7faf92fdaec94b7a0b2ca5f5f362b1.png" group-title="Canais De TV",TVCI
+http://flash8.crossdigital.com.br/2306/2306/chunklist_w2123470566.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/da8fecf959f730dd05d649b46fa80298.png" group-title="Canais De TV",TV Nova Nordeste (Cultura PE)
+https://live.comets.com.br/tvnovanordeste/aovivo/chunklist.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/2036bb720f9594ff3b83efbeb124b9e7.jpg" group-title="Canais De TV",TV Difusora Sul
+http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0f50cbf88b83e261740d68fba907a6dd.jpg" group-title="Canais De TV",Londrina TV
+https://video01.kshost.com.br/clodoaldo3320/clodoaldo3320/chunklist_w25399469.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c8898d67f9797c54514ec24edd8098ef.jpg" group-title="Canais De TV",Via Morena
+https://59f1cbe63db89.streamlock.net:1443/cleuzaviamorena/_definst_/cleuzaviamorena/chunklist_w899099999.m3u8
+
+
+
+
+
+
+
+
+
+
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d6d738376d63207eacd6a71322895a60.png" group-title="Chaves",Chaves|T01|EP01
+https://c.degoo.biz/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChTqVLVJ6-bs_x1hPTjCJcAMcFX4RBAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619705006&Signature=UtDvR0XuxD3SB4iAjXakmBqvLFc%3D&ngsw-bypass=1
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d6d738376d63207eacd6a71322895a60.png" group-title="Chaves",Chaves|T01|EP02
+https://c.degoo.eu/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChR2w9xMpl7F9FKRDc9EgjDcayxyeBAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619705027&Signature=vyhoIIuW6zZ6abteMNPDVqvMPo0%3D&ngsw-bypass=1
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d6d738376d63207eacd6a71322895a60.png" group-title="Chaves",Chaves|T01|EP03
+https://c.degoo.media/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChRfBvUjrpIl8x9r-Bk4U9VLq24mSxAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619704980&Signature=3gIa8AOLQe%2FziJ9pOlpOD2TT6xw%3D&ngsw-bypass=1
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d6d738376d63207eacd6a71322895a60.png" group-title="Chaves",Chaves|T01|EP04
+https://c.degoo.media/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChSJFQOJWTcPlQgpKchzePTwuKkZsxAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619704969&Signature=ga9A0Wg3OEPybgxWcg6mENM1juI%3D&ngsw-bypass=1
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d6d738376d63207eacd6a71322895a60.png" group-title="Chaves",Chaves|T01|EP05
+https://c.degoo.media/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChQcb9CglJ54ZnRrMWiLr79tNHQtWxAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619704959&Signature=jysDX4xYffjz4MnTkKFXv%2BRhJLs%3D&ngsw-bypass=1
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d6d738376d63207eacd6a71322895a60.png" group-title="Chaves",Chaves|T01|EP06
+https://c.degoo.biz/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChTAeAw-LWGp7_7GSar5FUAFgqP3HhAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619704942&Signature=h1DDmfe9GqE9X%2B2c6QJiHjhq5lo%3D&ngsw-bypass=1
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d6d738376d63207eacd6a71322895a60.png" group-title="Chaves",Chaves|T01|EP07
+https://c.degoo.media/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChR7gbtpJtqSjpaz01pMRj361IkRRhAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619704931&Signature=LO5n75evQyL77beLCZtqc0R4OQc%3D&ngsw-bypass=1
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d6d738376d63207eacd6a71322895a60.png" group-title="Chaves",Chaves|T01|EP08
+https://c.degoo.media/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChTb5FbckhllWfyClOHcYoUyMrOswBAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619704921&Signature=s0ny1N5PeLE1CS8QzxdiqeTIS6k%3D&ngsw-bypass=1
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d6d738376d63207eacd6a71322895a60.png" group-title="Chaves",Chaves|T01|EP09
+https://c.degoo.media/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChRugF-xI63uwO2SZcEvOdMyxzUC9hAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619704901&Signature=Yp%2FGEnnelkMC18XgNCLsOEOgdyw%3D&ngsw-bypass=1
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d6d738376d63207eacd6a71322895a60.png" group-title="Chaves",Chaves|T01|EP10
+https://c.degoo.eu/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChSh2p6ZvMtebjC8Hvuy4_smAsOhxRAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619704888&Signature=lMZrzqRlcNCgHDO3wgo%2B9iBnGOE%3D&ngsw-bypass=1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:- tvg-logo="https://tinyurl.com/j4jshkn8" group-title="Power Rangers mighty morphin",Power Rangers|T01|EP01
+https://c.degoo.media/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChS0ShYLtCY9QXShdZKjn6NapK2ukRAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619701153&Signature=CyurO65L1wH4zysELfTStA1xvaQ%3D&ngsw-bypass=1
+#EXTINF:- tvg-logo="https://tinyurl.com/j4jshkn8" group-title="Power Rangers mighty morphin",Power Rangers|T01|EP02
+https://c.degoo.eu/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChTSnR6Z4OCES2vJ5kADoGBagKyTQxAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619701196&Signature=P6Oj0lNehgaPObbR2uQzflRUzpI%3D&ngsw-bypass=1
+#EXTINF:- tvg-logo="https://tinyurl.com/j4jshkn8" group-title="Power Rangers mighty morphin",Power Rangers|T01|EP03
+https://c.degoo.biz/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChQgcmOm_Ft64r92zlBUYfNuLP8fGBAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619701207&Signature=UAIhItRj3eSpwL922dqCtEyIfK4%3D&ngsw-bypass=1
+#EXTINF:- tvg-logo="https://tinyurl.com/j4jshkn8" group-title="Power Rangers mighty morphin",Power Rangers|T01|EP04
+https://c.degoo.biz/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChTFlARugGoD6PLUxhLhlxnKBsJEjhAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619701219&Signature=wnjmH7XhypOosh%2B5UFQw7N5VHBs%3D&ngsw-bypass=1
+#EXTINF:- tvg-logo="https://tinyurl.com/j4jshkn8" group-title="Power Rangers mighty morphin",Power Rangers|T01|EP05
+https://c.degoo.biz/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChSiezROp8RPgyfHV2Xk0rsmWKY0IhAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619701235&Signature=7c4w2LbRV%2FvgEdvu9ILUJfmSVvM%3D&ngsw-bypass=1
+#EXTINF:- tvg-logo="https://tinyurl.com/j4jshkn8" group-title="Power Rangers mighty morphin",Power Rangers|T01|EP06
+https://c.degoo.eu/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChQQ_JxgwBnxU7ouaMqePnyeEu3ILxAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619701247&Signature=7Li%2Bs1oZn2ALSD1lCSfaAfavzKw%3D&ngsw-bypass=1
+#EXTINF:- tvg-logo="https://tinyurl.com/j4jshkn8" group-title="Power Rangers mighty morphin",Power Rangers|T01|EP07
+https://c.degoo.media/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChRIIc-SKZ-YY3iJEOq6nA2hUh0p5BAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619701249&Signature=jNJZZm10ey7M6ymmYKCscpU50Mc%3D&ngsw-bypass=1
+#EXTINF:- tvg-logo="https://tinyurl.com/j4jshkn8" group-title="Power Rangers mighty morphin",Power Rangers|T01|EP08
+https://c.degoo.eu/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChQdbNEerGovRynDfvtOtayIXfUFGRAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619701249&Signature=i%2BPEf8Cg8yGRVrQM9GsB9TkjliA%3D&ngsw-bypass=1
+#EXTINF:- tvg-logo="https://tinyurl.com/j4jshkn8" group-title="Power Rangers mighty morphin",Power Rangers|T01|EP09
+https://c.degoo.media/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChRLGHtgoBb9ozzS4BMDuIze7zkdHRAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619701249&Signature=gSfS7M1aS8RQFkhZg0zV2pl4YdQ%3D&ngsw-bypass=1
+#EXTINF:- tvg-logo="https://tinyurl.com/j4jshkn8" group-title="Power Rangers mighty morphin",Power Rangers|T01|EP10
+https://c.degoo.biz/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChRgAXAslAOv7IOoQTGnCfgrk1uiZRAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619701297&Signature=pDiTWfiGT0fLNfMEsdVh3JI1Vck%3D&ngsw-bypass=1
+#EXTINF:- tvg-logo="https://tinyurl.com/j4jshkn8" group-title="Power Rangers mighty morphin",Power Rangers|T01|EP11
+https://c.degoo.biz/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChThqzg3DiK01tWZDNoDf265yv3fkRAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619701313&Signature=MJ9VZg2xwDFakTwc1iUkRKZC1uk%3D&ngsw-bypass=1
+#EXTINF:- tvg-logo="https://tinyurl.com/j4jshkn8" group-title="Power Rangers mighty morphin",Power Rangers|T01|EP12
+https://c.degoo.eu/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChT2bHsX0AY4VazfIszFjCLv5JBMHBAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619701326&Signature=DWD8lwOB%2Bxysv6yyaJAMRRud%2Fw0%3D&ngsw-bypass=1
+#EXTINF:- tvg-logo="https://tinyurl.com/j4jshkn8" group-title="Power Rangers mighty morphin",Power Rangers|T01|EP13
+https://c.degoo.biz/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChTSkwpbJFMahQK69qk5N_FL9LaK7xAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619701249&Signature=PA4TbzxtsLTS9GuIBowgwJLTk2E%3D&ngsw-bypass=1
+#EXTINF:- tvg-logo="https://tinyurl.com/j4jshkn8" group-title="Power Rangers mighty morphin",Power Rangers|T01|EP14
+https://c.degoo.media/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChQVmk3cTQ9p8Zf1xQFw5Fbg9FjMWRAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619701366&Signature=4N7Z9d95orX7EKZosjCFksMx6Yk%3D&ngsw-bypass=1
+#EXTINF:- tvg-logo="https://tinyurl.com/j4jshkn8" group-title="Power Rangers mighty morphin",Power Rangers|T01|EP15
+https://c.degoo.media/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChSGRsryq-0L8Brg9R94-GVZTyZjZRAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619701377&Signature=Yrmf4%2FV4NJcsNIT6Kn39WM6ir6Q%3D&ngsw-bypass=1
+#EXTINF:- tvg-logo="https://tinyurl.com/j4jshkn8" group-title="Power Rangers mighty morphin",Power Rangers|T01|EP16
+https://c.degoo.media/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChS3cYFF0NBVnAGR1BCMwj_iTHmO9xAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619701249&Signature=QLoqgYRcE811NG18eoKsiWsbGIo%3D&ngsw-bypass=1
+#EXTINF:- tvg-logo="https://tinyurl.com/j4jshkn8" group-title="Power Rangers mighty morphin",Power Rangers|T01|EP17
+https://c.degoo.eu/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChT30U8wOi8xtwRtU8VSOzihAIeMsRAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619701402&Signature=talOuSDrjLIDCk%2Fm%2BlMP%2BXmlm3Y%3D&ngsw-bypass=1
+#EXTINF:- tvg-logo="https://tinyurl.com/j4jshkn8" group-title="Power Rangers mighty morphin",Power Rangers|T01|EP18
+https://c.degoo.eu/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChSp_yBoZMDFWKScGSmOr0kjF6G5GhAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619701417&Signature=cml48xQzPtXCiYzTt%2FANvakher4%3D&ngsw-bypass=1
+#EXTINF:- tvg-logo="https://tinyurl.com/j4jshkn8" group-title="Power Rangers mighty morphin",Power Rangers|T01|EP19
+https://c.degoo.media/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChQAXmN0KyramX1qY1aP8Y5EO0y98BAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619701492&Signature=33GtOSUH%2FF5jsZ9qex59VC2VZmo%3D&ngsw-bypass=1
+#EXTINF:- tvg-logo="https://tinyurl.com/j4jshkn8" group-title="Power Rangers mighty morphin",Power Rangers|T01|EP20
+https://c.degoo.biz/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChS8746q9kdrrx4tjezAUiEUONpwjhAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619701524&Signature=0mosSfIPKA%2B552CZQZhGNQxx0Dg%3D&ngsw-bypass=1
+#EXTINF:- tvg-logo="https://tinyurl.com/j4jshkn8" group-title="Power Rangers mighty morphin",Power Rangers|T01|EP21
+https://c.degoo.eu/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChREGyc2a3sG_1n9owSjUayVBHp6VhAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619701580&Signature=tSUtOpctlHKZDlt6RPQSAkREW5M%3D&ngsw-bypass=1
+#EXTINF:- tvg-logo="https://tinyurl.com/j4jshkn8" group-title="Power Rangers mighty morphin",Power Rangers|T01|EP22
+https://c.degoo.eu/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChStfPVzH5tQeS9Qtq0CrhW4ldKqVxAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619701592&Signature=TjrGqg55pVGxu5zwXqvrgmAVfUY%3D&ngsw-bypass=1
+#EXTINF:- tvg-logo="https://tinyurl.com/j4jshkn8" group-title="Power Rangers mighty morphin",Power Rangers|T01|EP23
+https://c.degoo.biz/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChT3qEr2amYbackmrlDuyp-bwtA7-RAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619701671&Signature=5bLqfzwYlRN85QppmOsbWYAcpEE%3D&ngsw-bypass=1
+#EXTINF:- tvg-logo="https://tinyurl.com/j4jshkn8" group-title="Power Rangers mighty morphin",Power Rangers|T01|EP24
+https://c.degoo.eu/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChSemVoNXkWVYquoyLqQnGnWEYNO7hAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619701682&Signature=3nkgEalpsY0r7tXbbOhRjoQ8fLQ%3D&ngsw-bypass=1
+#EXTINF:- tvg-logo="https://tinyurl.com/j4jshkn8" group-title="Power Rangers mighty morphin",Power Rangers|T01|EP25
+https://c.degoo.media/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChQZe_f71a2DZfbffMNPhRZT79ymnhAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619701863&Signature=FhKxrMBpWS8bHObSg9Q%2FaIWHqhU%3D&ngsw-bypass=1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:- tvg-logo="https://tinyurl.com/7h79uw5y"  group-title="Animes",Dragon Ball Z|T01|EP01
+https://c.degoo.eu/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChSmEC9yuqbImM-I2cKpQqjCrRptnRAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619701737&Signature=Lr692GGpotbihi0nLLbs1K9FcyE%3D&ngsw-bypass=1
+#EXTINF:- tvg-logo="https://tinyurl.com/7h79uw5y"  group-title="Animes",Dragon Ball Z|T01|EP02
+https://c.degoo.eu/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChQxfZe5XBfU4FAvCr34Rl35G0NaDBAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619704113&Signature=uOauXO7VwGTX13robJdAkyu2iGY%3D&ngsw-bypass=1
+#EXTINF:- tvg-logo="https://tinyurl.com/7h79uw5y"  group-title="Animes",Dragon Ball Z|T01|EP03
+https://c.degoo.media/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChTJ1xe8nf4hQYlUZQV8OXGXPgHSBBAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619704129&Signature=%2FQ3CcQ4C6C1okTjalwqA9asrKbY%3D&ngsw-bypass=1
+#EXTINF:- tvg-logo="https://tinyurl.com/7h79uw5y"  group-title="Animes",Dragon Ball Z|T01|EP04
+https://c.degoo.media/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChQQ7k-PgxHyejKkysPeXQO2lp7lCxAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619704139&Signature=uIEHKyA2jkhhje4hMusDPmDBi0k%3D&ngsw-bypass=1
+#EXTINF:- tvg-logo="https://tinyurl.com/7h79uw5y"  group-title="Animes",Dragon Ball Z|T01|EP05
+https://c.degoo.biz/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChSeIClF672E9GVquzd6nUNIBKHylRAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619704158&Signature=%2BwXbJdzcmunFG6p3ion%2B7fVoSgw%3D&ngsw-bypass=1
+#EXTINF:- tvg-logo="https://tinyurl.com/7h79uw5y"  group-title="Animes",Dragon Ball Z|T01|EP06
+https://c.degoo.biz/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChQoO61L37GZqck58L1NTE9z5R49qhAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619704268&Signature=QqaKBTdaIMTaBn0jNBnThI5XUaM%3D&ngsw-bypass=1
+#EXTINF:- tvg-logo="https://tinyurl.com/7h79uw5y"  group-title="Animes",Dragon Ball Z|T01|EP07
+https://c.degoo.biz/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChQhmM4sNWlxZ7dJIWm6k7WL3RV9fRAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619704291&Signature=X6aPvJiPP79H7r1P2h%2Bhm1G4i34%3D&ngsw-bypass=1
+#EXTINF:- tvg-logo="https://tinyurl.com/7h79uw5y"  group-title="Animes",Dragon Ball Z|T01|EP08
+https://c.degoo.media/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChRZ-I49kKKtYNvbazF_6p7gVV3QmxAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619704274&Signature=AL9iM2DEhCbHoNLanYV9nf424pw%3D&ngsw-bypass=1
+#EXTINF:- tvg-logo="https://tinyurl.com/7h79uw5y"  group-title="Animes",Dragon Ball Z|T01|EP09
+https://c.degoo.eu/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChSdif7cihe2IgEn_iHInncBLf-MHRAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619704274&Signature=xP%2BGfuWUX8bGw%2FN7HBlGWTM%2B6dY%3D&ngsw-bypass=1
+#EXTINF:- tvg-logo="https://tinyurl.com/7h79uw5y"  group-title="Animes",Dragon Ball Z|T01|EP10
+https://c.degoo.biz/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChRPDDowPUEmA2UvmrYIciH9YJQGmxAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619704335&Signature=9QMemXqjBxaaUj7%2FYgxAY60ysrI%3D&ngsw-bypass=1
+#EXTINF:- tvg-logo="https://tinyurl.com/7h79uw5y"  group-title="Animes",Dragon Ball Z|T01|EP11
+https://c.degoo.eu/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChRh6ZFHEJqx_Sx_YCJ1U6prNbCp8RAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619704345&Signature=3lVV0Sbw66VH%2FM3uUf%2FDEQdI1AM%3D&ngsw-bypass=1
+#EXTINF:- tvg-logo="https://tinyurl.com/7h79uw5y"  group-title="Animes",Dragon Ball Z|T01|EP12
+ https://c.degoo.biz/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChSLg-GoS1NYgMqIXT1zCCym9f9wOBAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619704355&Signature=v1yqU4lpWfgwtoVGB%2BgoAouDAZg%3D&ngsw-bypass=1
+#EXTINF:- tvg-logo="https://tinyurl.com/7h79uw5y"  group-title="Animes",Dragon Ball Z|T01|EP13
+https://c.degoo.biz/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChTBfCWjoALEiiR4hBdxugobzmlbcBAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619704369&Signature=bE8k%2Fsya7zEgViv5ujeEQXK21kE%3D&ngsw-bypass=1
+#EXTINF:- tvg-logo="https://tinyurl.com/7h79uw5y"  group-title="Animes",Dragon Ball Z|T01|EP14
+https://c.degoo.media/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChQ7HHF7jNKh9Vo7cGPXqTBL9qFusRAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619704384&Signature=CdwRT9HR8RpKwngDa%2BmbvNFmWRw%3D&ngsw-bypass=1
+#EXTINF:- tvg-logo="https://tinyurl.com/7h79uw5y"  group-title="Animes",Dragon Ball Z|T01|EP15
+https://c.degoo.biz/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChRpzrNIaWrdtbxRT9j2dalEiE5WVBAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619704400&Signature=p%2BS7V4Q96bOLOiGabrMXq6uikc0%3D&ngsw-bypass=1
+#EXTINF:- tvg-logo="https://tinyurl.com/7h79uw5y"  group-title="Animes",Dragon Ball Z|T01|EP16
+https://c.degoo.eu/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChRlh5R0Qx0xd8wJcsEbzXn2C3Q6sRAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619704441&Signature=MdwgESFfVwitRmBrOGJzlYYMLrU%3D&ngsw-bypass=1
+#EXTINF:- tvg-logo="https://tinyurl.com/7h79uw5y"  group-title="Animes",Dragon Ball Z|T01|EP17
+https://c.degoo.biz/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChT4k5FWuU5yosgC31zjgeM7zUCbNxAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619704476&Signature=Qm2CBNkqlaXavCsfKFEAxpHUoPE%3D&ngsw-bypass=1
+#EXTINF:- tvg-logo="https://tinyurl.com/7h79uw5y"  group-title="Animes",Dragon Ball Z|T01|EP18
+https://c.degoo.eu/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChT33BHmW4rAZTeEpZabqKM4fJvgIRAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619704500&Signature=Wjb%2BYPWGW4sf4QbYXWiy6KxOGNw%3D&ngsw-bypass=1
+#EXTINF:- tvg-logo="https://tinyurl.com/7h79uw5y"  group-title="Animes",Dragon Ball Z|T01|EP19
+https://c.degoo.media/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChTvSBf8hnbz_MbJEt9nn3qzu4_wqhAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619704513&Signature=WkOtUahYuzQ9G47hlPgct%2FtO4dQ%3D&ngsw-bypass=1
+#EXTINF:- tvg-logo="https://tinyurl.com/7h79uw5y"  group-title="Animes",Dragon Ball Z|T01|EP20
+https://c.degoo.eu/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChTrGqkKaDP_9qVtkA2MCC0y7vga-RAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619704547&Signature=Lus6mj1HAJpQWzDkqDAv6u0ORw8%3D&ngsw-bypass=1
+#EXTINF:- tvg-logo="https://tinyurl.com/7h79uw5y"  group-title="Animes",Dragon Ball Z|T01|EP21
+https://c.degoo.biz/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChScj-7rAEQx8PT0uEGZXHkCtdYQUhAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619704599&Signature=%2F9IYuh8kIFWkKhVB8hpGqaJI0lY%3D&ngsw-bypass=1
+#EXTINF:- tvg-logo="https://tinyurl.com/7h79uw5y"  group-title="Animes",Dragon Ball Z|T01|EP22
+https://c.degoo.eu/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChTpigTbYN7cOHte75l2jKw5yGY3phAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619704610&Signature=nLEh1wHm81RJ%2B8PtaMlqT7My9xY%3D&ngsw-bypass=1
+#EXTINF:- tvg-logo="https://tinyurl.com/7h79uw5y"  group-title="Animes",Dragon Ball Z|T01|EP23
+https://c.degoo.biz/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChRTJan8MVcHkl8cbSpRud7fqhbjHxAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619704608&Signature=1touIgmzseqnJXC%2BgtysOdT7xDg%3D&ngsw-bypass=1
+#EXTINF:- tvg-logo="https://tinyurl.com/7h79uw5y"  group-title="Animes",Dragon Ball Z|T01|EP24
+https://c.degoo.eu/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChRReITIFpZaNEdMls14E46oU2JzZhAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619704647&Signature=gyqBGAqru8JS65LuQojgWJb3sd4%3D&ngsw-bypass=1
+#EXTINF:- tvg-logo="https://tinyurl.com/7h79uw5y"  group-title="Animes",Dragon Ball Z|T01|EP25
+https://c.degoo.biz/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChSzDLZ3-k2ykyUvkenMqeDxkWRp1BAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619704659&Signature=ukHpz%2FNL9iFpfne3ZvGMeAdcN1U%3D&ngsw-bypass=1
+#EXTINF:- tvg-logo="https://tinyurl.com/7h79uw5y"  group-title="Animes",Dragon Ball Z|T01|EP26
+https://c.degoo.biz/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChStPZLO4FqZUYlDMGMyQGS0qXTfRRAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619704706&Signature=AQt%2BA6nUQK%2Bf3Qjmkf9lQe64k0w%3D&ngsw-bypass=1
+#EXTINF:- tvg-logo="https://tinyurl.com/7h79uw5y"  group-title="Animes",Dragon Ball Z|T01|EP27
+https://c.degoo.eu/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChR3JnCJi09WJeLP-tEjDfeItQOcIRAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619704717&Signature=SQiL0tyAP6MKgbBJ%2F2t0tDe9dNQ%3D&ngsw-bypass=1
+#EXTINF:- tvg-logo="https://tinyurl.com/7h79uw5y"  group-title="Animes",Dragon Ball Z|T01|EP28
+https://c.degoo.eu/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChQ77CEUz5k6UKRsQnVxcipIv1_uSBAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619704730&Signature=DBF%2B7RT0FMc3vH2WyJJYfX%2FbQc0%3D&ngsw-bypass=1
+#EXTINF:- tvg-logo="https://tinyurl.com/7h79uw5y"  group-title="Animes",Dragon Ball Z|T01|EP29
+https://c.degoo.media/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChQUJMGyeKfzYdOTpdMAEeFlVuHQFRAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619704743&Signature=hmLdcD3lHR4Ri2hwlG0MVRSgHOI%3D&ngsw-bypass=1
+#EXTINF:- tvg-logo="https://tinyurl.com/7h79uw5y"  group-title="Animes",Dragon Ball Z|T01|EP30
+https://c.degoo.media/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChSL9dAs7sKeMUXTsH0VSWsoBCYo-RAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619704757&Signature=amDMTHX5%2BSQq99PGFvOj%2FJXL48E%3D&ngsw-bypass=1
+#EXTINF:- tvg-logo="https://tinyurl.com/7h79uw5y"  group-title="Animes",Dragon Ball Z|T01|EP31
+https://c.degoo.media/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChTIjbNTy16Bp2tMrNF-xiEL--gbwBAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619704770&Signature=sNC36WHGo69McB7DNNq3DSG13Aw%3D&ngsw-bypass=1
+#EXTINF:- tvg-logo="https://tinyurl.com/7h79uw5y"  group-title="Animes",Dragon Ball Z|T01|EP32
+https://c.degoo.biz/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChQDARDtdC4NLdhcFzub2_2k8jhgixAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619704783&Signature=0OmnDEfR2n2lrAqjLY0UHgTKINw%3D&ngsw-bypass=1
+#EXTINF:- tvg-logo="https://tinyurl.com/7h79uw5y"  group-title="Animes",Dragon Ball Z|T01|EP33
+https://c.degoo.eu/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChSGg3wcBTxF4qbAAqFD-boiJTuYHxAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619704813&Signature=rtwdLJHEgltGPluE1dsF8yGnG6A%3D&ngsw-bypass=1
+#EXTINF:- tvg-logo="https://tinyurl.com/7h79uw5y"  group-title="Animes",Dragon Ball Z|T01|EP34
+https://c.degoo.media/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChRYbcLNEXEDPyu-fLxT4UnJkDsQsBAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619704823&Signature=Kvr26ms4mpolCEpUvACEEud6rFw%3D&ngsw-bypass=1
+#EXTINF:- tvg-logo="https://tinyurl.com/7h79uw5y"  group-title="Animes",Dragon Ball Z|T01|EP35
+https://c.degoo.eu/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChSQsEYiR6DvX9SYKwWoQNw5cqw2cBAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619704853&Signature=hldndx4LyQUmw733c%2FOUAoj0njI%3D&ngsw-bypass=1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:- tvg-logo="http://4.bp.blogspot.com/-lP0eXkHpI3I/VV-ygnQz_PI/AAAAAAAAAMc/Ql93zUIMUVE/s1600/Yu_Yu_Hakusho017.jpg" group-title="Animes",Yu-Yu-Hakusho|T01|EP01
+https://c.degoo.biz/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChQT6RzC9TPs4blzP_AowLlsvPN_NBAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619702210&Signature=zbeEO5h%2F50TfvOo1yBiwFYKfBzU%3D&ngsw-bypass=1
+#EXTINF:- tvg-logo="http://4.bp.blogspot.com/-lP0eXkHpI3I/VV-ygnQz_PI/AAAAAAAAAMc/Ql93zUIMUVE/s1600/Yu_Yu_Hakusho017.jpg" group-title="Animes",Yu-Yu-Hakusho|T01|EP02
+https://c.degoo.eu/degoo-production-large-file-us-east1.degoo.me/wCnn7k/4a3aDQ/mp4/ChQUdQzf-EG9SdacqK2Ra-zRT27aOhAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1619702247&Signature=ImbOIkRHM8HAEUKRah6Dt3C1vyY%3D&ngsw-bypass=1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
